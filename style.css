@@ -66,3 +66,15 @@ p {
     border-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), #ff0000, #ffa500, rgba(0, 0, 0, 0));
     border-image-slice: 1;
 }
+
+/**** Responsive design ****/ 
+
+@media screen and (max-width: 572px) {
+    .container {
+        flex-direction: column;
+    }
+
+    .card--1, .card--2 {
+        width: 100%;
+    }
+}
