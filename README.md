@@ -1,5 +1,7 @@
 ## GRABIENT BORDER
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création de bordure avec dégradé de couleur
@@ -8,7 +10,7 @@ Création de bordure avec dégradé de couleur
 
 Lien vers le projet : https://aperbet56.github.io/card_grabient/
 
-## Développez avec
+## Projet développé avec
 
 - Utilisation des balises sémantiques HTML5
 - CSS3
